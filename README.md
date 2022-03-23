@@ -1,6 +1,6 @@
 # PageAdmin
 
-This only example commands for code snippets in Iframe. 
+This only example commands for code snippets.  
 Full project is private for Web App Development EOOD developers and Online Solutions Group VB
 
 <a href="https://www.webdeveloper.today/">https://www.webdeveloper.today/</a><br />
